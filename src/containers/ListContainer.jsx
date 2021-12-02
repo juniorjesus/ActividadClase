@@ -21,7 +21,7 @@ export default class ListContainer extends Component {
     render() {
         return (
             <div>
-                 <h1>App de Películas!</h1>
+                 <h1>App de Películas y mucho mas!</h1>
                 {
                     this.state.peli.map((movie, index)=> {
                         return(
