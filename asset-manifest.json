@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/juniorjesus/ActividadClase/static/js/main.6e731ee4.chunk.js",
+    "main.js.map": "/juniorjesus/ActividadClase/static/js/main.6e731ee4.chunk.js.map",
+    "runtime-main.js": "/juniorjesus/ActividadClase/static/js/runtime-main.a38791a0.js",
+    "runtime-main.js.map": "/juniorjesus/ActividadClase/static/js/runtime-main.a38791a0.js.map",
+    "static/css/2.af519866.chunk.css": "/juniorjesus/ActividadClase/static/css/2.af519866.chunk.css",
+    "static/js/2.70354944.chunk.js": "/juniorjesus/ActividadClase/static/js/2.70354944.chunk.js",
+    "static/js/2.70354944.chunk.js.map": "/juniorjesus/ActividadClase/static/js/2.70354944.chunk.js.map",
+    "index.html": "/juniorjesus/ActividadClase/index.html",
+    "static/css/2.af519866.chunk.css.map": "/juniorjesus/ActividadClase/static/css/2.af519866.chunk.css.map",
+    "static/js/2.70354944.chunk.js.LICENSE.txt": "/juniorjesus/ActividadClase/static/js/2.70354944.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a38791a0.js",
+    "static/css/2.af519866.chunk.css",
+    "static/js/2.70354944.chunk.js",
+    "static/js/main.6e731ee4.chunk.js"
+  ]
+}
